@@ -20,3 +20,10 @@ https://github.com/microsoft/generative-ai-for-beginners
 
 5. Machine learning for beginners
 https://microsoft.github.io/ML-For-Beginners/#/
+
+
+
+https://www.youtube.com/watch?v=7xTGNNLPyMI     Deep Dive into LLMs like ChatGPT  (by Andrej Karpathy)
+
+
+Alternatywa z linkami do deep dive w opisie - https://www.youtube.com/watch?v=LPZh9BOjkQs
